@@ -1,0 +1,17 @@
+.container
+{
+    padding: 10rem;
+    width: fit-content;
+    background: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+body
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   background: black;
+   height: 100vh;
+}
